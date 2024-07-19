@@ -19,9 +19,15 @@ list_of_files=[
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
+    "schema.py",
+    "main.py",
+    "app.py",
+    "dockerfile",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "templates/index.html",
+    
     
 ]
 
